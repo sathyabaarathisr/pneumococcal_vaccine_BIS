@@ -10,9 +10,9 @@ This repository consists of data and scripts used for generating results, figure
 
 fastq files available in dbGAP (Permission required): https://www.ncbi.nlm.nih.gov/sra/?term=phs002361
 
-Bulk RNAseq available in GEO (raw count): https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE247276
+Bulk RNAseq available in GEO (rawcount): https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE247276
 
-scRNAseq available in GEO (raw count post Cell Ranger processing):https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE247277
+scRNAseq available in GEO (rawcount post Cell Ranger processing): https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE247277
 
 # Contact
 
