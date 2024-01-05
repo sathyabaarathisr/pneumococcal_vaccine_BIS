@@ -4,7 +4,7 @@ This repository consists of data and scripts used for generating results, figure
 
 # Cohort information
 <img width="1302" alt="Screen Shot 2024-01-04 at 3 04 41 PM" src="https://github.com/sathyabaarathisr/pneumococcal_vaccine_BIS/assets/99349167/421ed7d4-26de-4f43-b524-68261cb861c5">
-9 women and 10 men received PCV13 vaccine, and 10 women and 10 men received PPSV23. OPA titers for the 13 serotypes were assessed from serum samples obtained 7 days prior to vaccination (baseline), and 28 days post-vaccination, for both vaccines. Anticoagulated blood samples were used for flow cytometric analysis of whole blood cell populations. PBMCs (Peripheral Blood Mononuclear Cells) were isolated for bulk RNA-seq. Pre-vaccination PBMCs from 4 women and 7 men who received PCV13 were isolated for scRNA-sequencing. Numbers in circles represent total number of biologically independent samples processed for the indicated assay at the indicated time. The schema was created using Biorender. 
+9 women and 10 men received PCV13 vaccine, and 10 women and 10 men received PPSV23. OPA titers for the 13 serotypes were assessed from serum samples obtained 7 days before vaccination (baseline), and 28 days post-vaccination, for both vaccines. Anticoagulated blood samples were used for flow cytometric analysis of whole blood cell populations. PBMCs (Peripheral Blood Mononuclear Cells) were isolated for bulk RNA-seq. Pre-vaccination PBMCs from 4 women and 7 men who received PCV13 were isolated for scRNA-sequencing. Numbers in circles represent total number of biologically independent samples processed for the indicated assay at the indicated time. The schema was created using Biorender. 
 
 # Data availability
 
