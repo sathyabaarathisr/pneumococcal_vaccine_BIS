@@ -1,6 +1,6 @@
 # Distinct baseline immune characteristics associated with responses to conjugated and unconjugated pneumococcal polysaccharide vaccines in older adults
 
-This repository consists of data and scripts used for generating results, figures, and tables published in the article: https://www.nature.com/articles/s41590-023-01717-5
+This repository contains data and scripts used for generating results, figures, and tables published in the article: https://www.nature.com/articles/s41590-023-01717-5
 
 # Cohort information
 <img width="1302" alt="Screen Shot 2024-01-04 at 3 04 41 PM" src="https://github.com/sathyabaarathisr/pneumococcal_vaccine_BIS/assets/99349167/421ed7d4-26de-4f43-b524-68261cb861c5">
